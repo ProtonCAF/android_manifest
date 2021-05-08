@@ -833,5 +833,6 @@
 
   <!-- ProtonAOSP snippet -->
   <include name="snippets/proton.xml"/>
+  <include name="snippets/lineage.xml"/>
 
 </manifest>
