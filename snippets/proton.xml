@@ -183,7 +183,7 @@
   <project name="android_external_vim" path="external/vim" remote="proton" groups="proton" />
   <project name="android_external_wpa_supplicant_8" path="external/wpa_supplicant_8" remote="proton" groups="proton" />
   <project name="android_external_zip" path="external/zip" remote="proton" groups="proton" />
-  <project name="Wave-Project/android_external_zlib" path="external/zlib" remote="github" groups="github" />
+  <project name="Wave-Project/external_zlib" path="external/zlib" remote="github" groups="github" />
   
   <!-- External -->
   <project name="android_external_cpu_features" path="external/cpu_features" remote="protoncaf" groups="protoncaf" />
